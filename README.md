@@ -1,6 +1,6 @@
 # Concentration
 
-This is the first demo project from the [CS193p](https://web.stanford.edu/class/cs193p/cgi-bin/drupal/) course "Developing Apps for iOS" at Stanford taught by *Paul Hegarty*.
+This is the first demo project from the [CS193p](https://web.stanford.edu/class/cs193p/cgi-bin/drupal/) course "Developing Apps for iOS" at Stanford taught by *Paul Hegarty* in Fall 2017.
 
 This app is a well-known memory game where you have to remember card locations to match the pairs.
 
